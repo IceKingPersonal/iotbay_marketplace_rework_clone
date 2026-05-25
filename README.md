@@ -8,7 +8,7 @@ This guide covers the correct setup order, dependency installation, backend/fron
 
 ## 1) Prerequisites
 
-- Python 3.11+ (3.12 tested)
+- Python 3.11+ 
 - Node.js 20+
 - npm 10+
 
